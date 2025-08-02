@@ -11,6 +11,9 @@ The project demonstrates how to clean data, analyze key metrics, and create inte
 - Multiple dashboards consolidated in one workbook
 - Basic use of **Macros (VBA)** for automation
 
+- ## Dashboard Preview
+![Excel Dashboard](https://raw.githubusercontent.com/Ujjwal9495/excel-data-analysis-dashboard/main/dashboard_img.png)
+
 ## What can be analyzed with this project?
 Using this dashboard, you can analyze:
 - **Total Sales** by Sales Executive and City
